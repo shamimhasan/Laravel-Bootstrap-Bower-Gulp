@@ -9,7 +9,7 @@ A starter [Laravel](https://github.com/laravel/laravel) app ready to go with ass
 ### Clone Project
 
   1. Clone this repo in your sites directory:
-      * `git clone https://github.com/jhauraw/laravel-bootstrap-bower-gulp.git`
+      * `git clone https://github.com/shamimhasan/Laravel-Bootstrap-Bower-Gulp`
   2. `cd` into project directory
 
 ### Create `.env.*.php` Files
