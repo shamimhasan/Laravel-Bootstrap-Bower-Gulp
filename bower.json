@@ -1,0 +1,25 @@
+{
+  "name": "App",
+  "version": "",
+  "authors": [
+    ""
+  ],
+  "description": "",
+  "license": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "",
+    "jquery": "",
+    "html5shiv": "",
+    "respond": "",
+    "font-awesome": "",
+    "jquery-cookie": ""
+  }
+}
